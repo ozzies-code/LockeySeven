@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\LockeySeven\obj\Debug\LockeySeven.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\LockeySeven\obj\Debug\LockeySeven.Resources.resources
+C:\Users\oswal\source\repos\LockeySeven\obj\Debug\LockeySeven.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\LockeySeven\obj\Debug\LockeySeven.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\LockeySeven\bin\Debug\LockeySeven.exe.config
+C:\Users\oswal\source\repos\LockeySeven\bin\Debug\LockeySeven.exe
+C:\Users\oswal\source\repos\LockeySeven\bin\Debug\LockeySeven.pdb
+C:\Users\oswal\source\repos\LockeySeven\bin\Debug\LockeySeven.xml
+C:\Users\oswal\source\repos\LockeySeven\obj\Debug\LockeySeven.exe
+C:\Users\oswal\source\repos\LockeySeven\obj\Debug\LockeySeven.xml
+C:\Users\oswal\source\repos\LockeySeven\obj\Debug\LockeySeven.pdb
+C:\Users\oswal\source\repos\LockeySeven\obj\Debug\LockeySeven.frmLockeySeven.resources
